@@ -23,8 +23,8 @@ Why CS? Because you can create basically anything you want! I love building all 
 
 ## 🪄 Experiences
 
-- Incoming SDE @ Amazon
-- Undergrad TA for FIN205 & CSE190B
+- SDE @ Amazon Supply Chain Ops Tech (SCOT) Team
+- Undergrad TA for FIN205 & CSE190B & CSE311
 - Researcher for UW Mobile Intelligence Lab @ Target Speech Hearing
 - Researcher for UW SEAL @ Arduino Covid Sensors
 
